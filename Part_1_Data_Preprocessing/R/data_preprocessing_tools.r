@@ -2,9 +2,9 @@
 
 # Importing the dataset
 
-dataset <- read.csv("Part\ 1\ -\ Data\ Preprocessing/Data.csv")
+dataset <- read.csv("Part_1_Data_Preprocessing/Data.csv")
 
-# Takikng care of the missing data
+# Taking care of the missing data
 
 dataset$Age <- ifelse(is.na(dataset$Age),
                       ave(dataset$Age, FUN = function(x) mean(x, na.rm = TRUE)),
