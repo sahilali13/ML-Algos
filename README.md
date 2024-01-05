@@ -17,7 +17,13 @@
 
 ### Linear Regression
 
-	ŷ = b<sub>0</sub> + b<sub>1</sub> * X<sub>1</sub>
 - Creating a Linear Regression Model
 - Training and Prediction
 - Visualization
+
+### Multiple Linear Regression
+
+- Creating a Multiple Linear Regression Model
+- Training and Prediction
+- Backward Elimination Method
+
