@@ -1,4 +1,4 @@
-# Data Preprocessing
+# Simple Linear Regression
 
 # Importing the dataset
 

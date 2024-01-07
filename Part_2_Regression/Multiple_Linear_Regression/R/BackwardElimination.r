@@ -1,4 +1,4 @@
-# Data Preprocessing 
+# Backward Elimination
 
 # Importing the dataset
 

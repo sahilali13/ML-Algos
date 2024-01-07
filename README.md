@@ -27,3 +27,8 @@
 - Training and Prediction
 - Backward Elimination Method
 
+### Polynomial Linear Regression
+
+- Creatinf a Polynomial Linear Regression
+- Training and Visualization
+- Prediction
