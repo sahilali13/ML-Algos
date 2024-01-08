@@ -29,6 +29,12 @@
 
 ### Polynomial Linear Regression
 
-- Creatinf a Polynomial Linear Regression
+- Creating a Polynomial Linear Regression
 - Training and Visualization
 - Prediction
+
+### Support Vector Regression
+
+- Creating a Support Vector Regression
+- Training and Prediction
+- Visualization
