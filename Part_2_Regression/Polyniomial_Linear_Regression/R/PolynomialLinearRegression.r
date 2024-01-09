@@ -2,7 +2,7 @@
 
 # Importing the dataset
 
-dataset <- read.csv("Part_2_Regression/Polyniomial_Linear_Regression/Position_Salaries.csv") # nolint: line_length_linter.
+dataset <- read.csv("Part_2_Regression/Polyniomial_Linear_Regression/Position_Salaries.csv")
 
 dataset <- dataset[2:3]
 
@@ -11,7 +11,7 @@ dataset <- dataset[2:3]
 lr <- lm(formula = Salary ~ .,
          data = dataset)
 
-# summary(lr) # nolint: commented_code_linter.
+# summary(lr)
 
 # Creating Polynomial Linear Regression
 
@@ -21,7 +21,7 @@ dataset$level4 <- dataset$Level ^ 4
 plr <- lm(formula = Salary ~ .,
           data = dataset)
 
-# summary(plr) # nolint: commented_code_linter.
+# summary(plr)
 
 # Visualizing Linear Regression
 
@@ -39,7 +39,7 @@ ggplot() +
 ggplot() +
   geom_point(aes(x = dataset$Level, y = dataset$Salary),
              colour = "red") +
-  geom_line(aes(x = dataset$Level, y = predict(object = plr, newdata = dataset)), # nolint: line_length_linter.
+  geom_line(aes(x = dataset$Level, y = predict(object = plr, newdata = dataset)),
             colour = "blue") +
   ggtitle("polynomial Linear Regression") +
   xlab("Level") +
