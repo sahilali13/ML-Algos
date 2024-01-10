@@ -4,6 +4,14 @@
 
 ## Template
 
+- Data Preprocessing - Python, R
+- Regression - R
+- Classisfication -R
+
+## Model Selection
+
+- Regression
+
 ## Part 1 - Data Preprocessing
 
 ## Part 2 - Regression
@@ -14,3 +22,7 @@
 - Support Vector Regression
 - Decision Tree Regression
 - Random Forest Regression
+
+## Part 3 - Classification
+
+- Logistic Regression

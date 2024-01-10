@@ -159,3 +159,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
+Model_Selection/Regression/Python/decision_tree_regression copy.ipynb
+Model_Selection/Regression/Python/multiple_linear_regression copy.ipynb
+Model_Selection/Regression/Python/polynomial_regression copy.ipynb
+Model_Selection/Regression/Python/random_forest_regression copy.ipynb
+Model_Selection/Regression/Python/support_vector_regression copy.ipynb
