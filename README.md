@@ -6,7 +6,7 @@
 
 - Data Preprocessing - Python, R
 - Regression - R
-- Classisfication -R
+- Classisfication - R
 
 ## Model Selection
 
@@ -26,3 +26,4 @@
 ## Part 3 - Classification
 
 - Logistic Regression
+- KNN Classification
