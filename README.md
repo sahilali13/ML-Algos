@@ -27,3 +27,4 @@
 
 - Logistic Regression
 - KNN Classification
+- Support Vector Machine
