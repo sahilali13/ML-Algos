@@ -2,7 +2,7 @@
 
 # Importing the dataset
 
-dataset <- read.csv("Part_2_Regression/Support_Vector_Regression/Position_Salaries.csv")
+dataset <- read.csv("Data/Position_Salaries.csv")
 dataset <- dataset[2:3]
 # Training
 # install.packages("e1071")

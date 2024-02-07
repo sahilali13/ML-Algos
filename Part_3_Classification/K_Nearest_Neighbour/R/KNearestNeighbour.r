@@ -1,7 +1,7 @@
 # K Nearest Neighbour
 
 # Importing the dataset
-dataset <- read.csv("Part_3_Classification/K_Nearest_Neighbour/R/Social_Network_Ads.csv")
+dataset <- read.csv("Data/Social_Network_Ads_Full.csv")
 dataset <- dataset[3:5]
 
 # Encoding the target feature as factor

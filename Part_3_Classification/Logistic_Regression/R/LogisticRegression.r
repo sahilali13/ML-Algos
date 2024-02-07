@@ -2,7 +2,7 @@
 
 # Importing the dataset
 
-dataset <- read.csv("Part_3_Classification/Logistic_Regression/R/Social_Network_Ads.csv")
+dataset <- read.csv("Data/Social_Network_Ads_Full.csv")
 dataset <- dataset[, 3:5]
 View(dataset)
 

@@ -2,7 +2,7 @@
 
 # Importing the dataset
 
-dataset <- read.csv("Part_2_Regression/Simple_Linear_Regression/Salary_data.csv")
+dataset <- read.csv("Data/Experience_Salary.csv")
 
 # Splitting the dataset
 

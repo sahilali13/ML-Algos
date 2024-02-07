@@ -2,7 +2,7 @@
 
 # Importing the dataset
 
-dataset <- read.csv("Part_2_Regression/Multiple_Linear_Regression/50_Startups.csv")
+dataset <- read.csv("Data/Startups_Profit.csv")
 
 # Taking care of the missing data
 
