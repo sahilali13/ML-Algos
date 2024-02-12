@@ -24,7 +24,7 @@ library(e1071)
 classifier <- svm(formula <- Purchased ~ .,
                   data <- training_set,
                   type <- "C-classification",
-                  kernel <- "linear")
+                  kernel <- "radial")
 
 # Predicting the Test set results
 y_pred <- predict(classifier, newdata = test_set[-3])
